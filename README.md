@@ -18,8 +18,7 @@ Ideal para analistas, investidores e professores que precisam de uma ferramenta 
 - **Aplicação automática** da alíquota de IOF regressivo.
 - **Consideração de feriados** nacionais e do mercado (BVMF).
 - **Gráficos interativos** com exportação de dados.
-- **Configuração de parâmetros** diretamente na barra lateral, mantendo inputs numéricos no formato `st.number_input`.
-- **Exibição de tabelas** e gráficos formatados em Real (R\$).
+- **Configuração de parâmetros** diretamente na barra lateral.
 
 ---
 
